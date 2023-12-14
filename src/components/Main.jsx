@@ -2,7 +2,6 @@
 export default function Main() {
     return (
       <div className="scale-100 transform-none">
-        <h1 className="text-center">Text</h1>
         <header className="flex flex-row w-[1310px] h-[575px] 2xl:w-[1910px] 2xl:h-[1080px]">
           <div className="w-[362px] basis-5/12 h-[346px] flex-col mt-[140px] 2xl:mt-[275px]">
             <div className="self-stretch text-black text-5xl pl-[85px] font-bold font-['Poppins'] 2xl:text-[75px]">Lets Make The <br /> World <br />A Better Place</div>
