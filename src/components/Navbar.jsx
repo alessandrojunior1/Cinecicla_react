@@ -13,7 +13,7 @@ export default function Navbar(){
                         <a href="#lixeiras">Lixeiras</a>
                     </li>
                     <li className='my-[0px] mx-[15px]'>
-                        <Link href="">Feedback</Link>
+                        <a href=''>Feedback</a>
                     </li>
                 </ul>
             </div>
